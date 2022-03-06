@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bruh Moments", "Bruh Moments\Bruh Moments.vcxproj", "{38DCC4D5-4131-4375-96BC-2419543176E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Debug|x64.ActiveCfg = Debug|x64
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Debug|x64.Build.0 = Debug|x64
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Debug|x86.ActiveCfg = Debug|Win32
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Debug|x86.Build.0 = Debug|Win32
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Release|x64.ActiveCfg = Release|x64
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Release|x64.Build.0 = Release|x64
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Release|x86.ActiveCfg = Release|Win32
+		{38DCC4D5-4131-4375-96BC-2419543176E6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926E5F39-D79C-4FD4-B4E5-54BFAB5D3116}
+	EndGlobalSection
+EndGlobal
