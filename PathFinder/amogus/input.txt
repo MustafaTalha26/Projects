@@ -1,0 +1,16 @@
+A1,B1,C1,D1,D2,E1
+Links:
+A1->C1
+C1->B1
+D1->C1
+D1->D2
+D1->E1
+D2->E1
+E1->C1
+Paths:
+CBA
+CB
+ACB
+DEC
+CDE
+DDEC

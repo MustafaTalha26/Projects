@@ -1,0 +1,6 @@
+CBA [NO]
+CB [YES]
+ACB [YES]
+DEC [YES]
+CDE [NO]
+DDEC [YES]
