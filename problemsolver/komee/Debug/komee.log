@@ -1,0 +1,8 @@
+﻿  Kaynak.cpp
+C:\Users\Mustafa\source\repos\komee\komee\Kaynak.cpp(13,17): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Mustafa\source\repos\komee\komee\Kaynak.cpp(26,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Mustafa\source\repos\komee\komee\Kaynak.cpp(41,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Mustafa\source\repos\komee\komee\Kaynak.cpp(45,26): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Mustafa\source\repos\komee\komee\Kaynak.cpp(74,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Mustafa\source\repos\komee\komee\Kaynak.cpp(82,26): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  komee.vcxproj -> C:\Users\Mustafa\source\repos\komee\Debug\komee.exe
