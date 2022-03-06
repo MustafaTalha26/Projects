@@ -1,0 +1,33 @@
+Ders:
+Nesneye Yönelik Programlama
+OG:
+1306200015
+ST:
+1306200015
+1313541236
+NOT:
+100
+90
+.
+Ders:
+Devreler ve Sistemler
+OG:
+1313541236
+ST:
+1306200015
+1313541236
+NOT:
+70
+100
+.
+Ders:
+Lojik Devre Tasarımı
+OG:
+1306200015
+ST:
+1306200015
+1313541236
+NOT:
+80
+60
+.

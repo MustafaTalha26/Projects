@@ -1,0 +1,13 @@
+Duyuru:
+Okul
+Açıklama:
+4
+satır
+yazıyorum
+yeterli olur galiba
+.
+Duyuru:
+Ben
+Açıklama:
+yok :D
+.

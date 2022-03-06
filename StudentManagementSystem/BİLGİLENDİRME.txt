@@ -1,0 +1,24 @@
+Test amaçlı kullanabilirsiniz.
+19363954752 şifre: 32 // ÖG. hesabı. kendimi ÖG ve öğrenci olarak ekledim :D
+55555555555 şifre: 6666 // öğrenci hesabı.
+(Bulması kolay olsun diye yazdım. Diğer hesaplara giriş yapmak isterseniz. ilk ve soyadından sonra gelen kısmı kullanabilirsiniz.)(ID ve Şifre)
+
+Drag and use kullanmadım. Arayüz hazırlaması çok keyifliydi.
+Dersler dosyasındaki notlar ve öğrenciler kısmı hatalı olduğu için kullanmadım. Kafa karışıklığına sebep olabilir diye yazmak istedim.
+"anony.png" kullanıcılar için fotoğraf eklenseydi diye örnek olarak hazırladım.
+Bazı hataları çözmek için metodlar oluşturdum. Kullanılmayan metodlar onlardır.(Kullandıktan sonra ihtiyacım kalmadı.)
+1 tane abstract class 3 tane interface kullandım.
+"Lactos" classı genel arayüzüm. ÖG "Teacher" ve ST "Student" için farklı paneller oluşturdum. 
+Buton isimleri kafa karıştırıcı olabilir. Özür dilerim.
+Classların büyük çoğunluğu eklediğim paneller ve kulllandığım objelerdir. 
+"Writer" yazma ve "Reading" de okuma işlemleri için.
+Çok sık test ve giriş yaptığım için login screen'e kısayol ekledim. 1.textfieldda entera basıldığında 2.textfielda geçer. 
+2.textfieldda entera basıldığında giriş yapar. :D
+
+Yazımı okuduğunuz ve zamanınız için teşekkür ediyorum. 
+
+                                          Mustafa Talha Mert
+					  19363954752
+
+
+
